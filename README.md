@@ -51,12 +51,6 @@ Estou constantemente a evoluir minhas competências técnicas, buscando unir teo
 
 ---
 
-### 🔄 Automação
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
----
 
 ### 🐳 MLOps & Cloud
 <p align="left">
@@ -68,12 +62,10 @@ Estou constantemente a evoluir minhas competências técnicas, buscando unir teo
 ---
 
 ## 📊 Estatísticas
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaonambi&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaonambi&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## 🎯 Foco Atual
