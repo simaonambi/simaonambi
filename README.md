@@ -1,27 +1,13 @@
-# 👨🏽‍💻 Simão Nambi
+# 👨🏽‍💻 [Simão Nambi](https://www.linkedin.com/in/sim%C3%A3o-nambi-18279422b/)
 
 🎓 Estudante de Inteligência Artificial e Ciência de Dados  
     Universidade da Beira Interior  
 
 ---
 
-##  Sobre mim
+##  Sobre mim:
 
-Sou estudante de Inteligência Artificial e Ciência de Dados com forte interesse em resolver problemas complexos através de dados, matemática e programação.
-
-Tenho foco em:
-
--  Análise e interpretação de dados com abordagem estatística sólida  
--  Desenvolvimento e implementação de modelos de Machine Learning  
--  Implementação de algoritmos e estruturas de dados
--  Deploy de soluções em ambientes cloud  
-
-Gosto de entender profundamente como os algoritmos funcionam internamente, não apenas utilizá-los. Por isso, valorizo a implementação manual de modelos, otimização de código e organização estruturada de projetos.
-
-Estou constantemente a evoluir minhas competências técnicas, buscando unir teoria matemática com aplicação prática em projetos reais.
-
- Objetivo: Tornar-me especialista em Inteligência Artificial aplicada e construir soluções escaláveis que gerem impacto real.
-
+Focado em Inteligência Artificial, Ciência de Dados e Automação. Construo soluções com Python, Machine Learning e deploy em cloud, sempre buscando performance, escalabilidade e organização profissional.
 ---
 
 ##  Linguagens & Tecnologias
