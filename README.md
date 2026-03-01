@@ -37,6 +37,7 @@ Focado em Inteligência Artificial, Ciência de Dados e Automação. Construo so
 </p>
 ---
 
+
 ## Foco Atual
 
 - Machine Learning
@@ -46,3 +47,7 @@ Focado em Inteligência Artificial, Ciência de Dados e Automação. Construo so
 ---
 
  Evoluindo todos os dias para me tornar referência em Inteligência Artificial e Ciência de Dados.
+
+### Estatística
+
+ ![Simão´s GitHub stats](https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight)
