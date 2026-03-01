@@ -7,7 +7,7 @@ Universidade da Beira Interior
 
 ##  Sobre mim:
 
-Focado em Inteligência Artificial, Ciência de Dados e Automação. Construo soluções com Python, Machine Learning e deploy em cloud, sempre buscando performance, escalabilidade e organização profissional.
+Focado em Inteligência Artificial, Ciência de Dados. Construo soluções com Python, Machine Learning e deploy em cloud, sempre buscando performance, escalabilidade e organização profissional.
 ---
 
 ##  Linguagens & Tecnologias
@@ -50,4 +50,19 @@ Focado em Inteligência Artificial, Ciência de Dados e Automação. Construo so
 
 ### Estatística
 
- ![Simão's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight&hide_border=false)
+<p align="left">
+  <img 
+    align="left" 
+    alt="github stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+  />
+
+  <img 
+    align="left" 
+    alt="top langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaonambi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
