@@ -50,4 +50,4 @@ Focado em Inteligência Artificial, Ciência de Dados e Automação. Construo so
 
 ### Estatística
 
- ![Simão´s GitHub stats](https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight)
+ ![Simão's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight&hide_border=false)
