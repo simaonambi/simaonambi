@@ -53,5 +53,4 @@ Focado em Inteligência Artificial, Ciência de Dados. Construo soluções com P
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=simaonambi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="github stats" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaonambi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="top langs" />
 </div>
-
 <br clear="both">
