@@ -43,7 +43,8 @@ Focado em Inteligência Artificial, Ciência de Dados. Construo soluções com P
 - Machine Learning
 - Visulilização de Dados
 - Otimização
-- Cloud & Deploy  
+- Cloud & Deploy
+- Processamento de Linguagem natural
 ---
 
  Evoluindo todos os dias para me tornar referência em Inteligência Artificial e Ciência de Dados.
